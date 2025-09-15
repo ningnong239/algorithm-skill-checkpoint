@@ -1,6 +1,6 @@
 /*
 What is the Big O notation for Function findStudentById . Explain your reason.
-Answer:
+Answer: o(n) วนลูปในสมาชิก
 
 
 */
